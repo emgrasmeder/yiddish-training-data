@@ -1,0 +1,4 @@
+[data]
+wiktionary_directory = "data/wiktionary"
+wiktionary_filename = "data/wiktionary/wiktionary_download.jsonl"
+wiktionary_output_data_directory = "data/output/wiktionary"
